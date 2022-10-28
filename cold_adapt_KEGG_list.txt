@@ -1,0 +1,70 @@
+K03704	cold shock protein CspA
+K06099	CSDA, ZONAB; cold shock domain protein A
+K06099	cold shock domain protein A
+K02002	glycine betaine/proline transport system substrate-binding protein
+K05846	osmoprotectant transport system permease protein
+K05847	osmoprotectant transport system ATP-binding protein
+K05846 	osmoprotectant transport system permease protein
+K02000	glycine betaine/proline transport system ATP-binding protein
+K02001	glycine betaine/proline transport system permease protein
+K05845	osmoprotectant transport system substrate-binding protein
+K14724	solute carrier family 9 (sodium/hydrogen exchanger), member 8, CPA1 family transporter:sodium ion/proton
+K03313	Na+:H+ antiporter, NhaA family
+K05571 	multicomponent Na+:H+ antiporter subunit G
+K05569	multicomponent Na+:H+ antiporter subunit E
+K05568	multicomponent Na+:H+ antiporter subunit D
+K05567	multicomponent Na+:H+ antiporter subunit C
+K05565	multicomponent Na+:H+ antiporter subunit A
+K05566	multicomponent Na+:H+ antiporter subunit B
+K05570	multicomponent Na+:H+ antiporter subunit F
+K02168	choline/glycine/proline betaine transport protein
+K05245	L-carnitine/gamma-butyrobetaine antiporter
+K03451	betaine/carnitine transporter, BCCT family
+K16055	trehalose 6-phosphate synthase/phosphatase
+K01087	trehalose 6-phosphate phosphatase
+K06720	L-ectoine synthase
+K07646	Osmosensitive K+ channel histidine kinase
+K07644	Osmosensitive K+ channel histidine kinase KdpD
+K03607	Activator of osmoprotectant transporter
+K04063	lipoyl-dependent peroxiredoxin, peroxiredoxin, Ohr subfamily
+K15717	prostamide/prostaglandin F2alpha synthase, peroxiredoxin like 2B
+K03386	peroxiredoxin 2/4, peroxiredoxin 4
+K11187	peroxiredoxin 5
+K11188	peroxiredoxin 6
+K20011	peroxiredoxin 3
+K13279	peroxiredoxin 1 
+K04569	copper chaperone for superoxide dismutase
+K04564	superoxide dismutase, Fe-Mn family 
+K16627	superoxide dismutase, Cu-Zn family
+K04565	superoxide dismutase, Cu-Zn family
+K03781	catalase
+K03782 	catalase-peroxidase HPI
+K06149	universal stress protein A, UspA
+K01356	SOS-response transcriptional repressor, LexA
+K03973	Phage shock protein C (PspC) family protein
+K03969	Phage shock protein A (PspA) family protein
+K12419	fatty acid desaturase 6
+K10224	acyl-CoA (8-3)-desaturase (Delta-5 desaturase), fatty acid desaturase 1
+K10225	fatty acid desaturase 3
+K10226	acyl-CoA 6-desaturase, fatty acid desaturase 2
+K17841	15-cis-phytoene synthase / lycopene beta-cyclase
+K15745	phytoene desaturase 
+K11539	carbonyl reductase 4 / 3-oxoacyl-[acyl-carrier protein] reductase beta subunit/3-oxoacyl-[acyl-carrier-protein] reductase isoform X1
+K09458	3-oxoacyl-[acyl-carrier-protein] synthase II
+K06200	carbon starvation protein
+K07285	outer membrane lipoprotein/outer membrane protein induced after carbon starvation
+K23676	pyruvate/proton symporter/putative carbon starvation protein
+K02438	glycogen debranching enzyme (glgX)
+K00703	starch synthase/Glycogen synthase (ADP-glucose)
+K11156	diacylglycerol O-acyltransferase 2-like protein 4 
+K11160	diacylglycerol O-acyltransferase 2
+K11171	diacylglycerol O-acyltransferase 2-like protein 3
+K11155	diacylglycerol O-acyltransferase 1
+K11172 	diacylglycerol O-acyltransferase 2-like protein 6
+K13509	lysophosphatidate acyltransferase/1-acylglycerol-3-phosphate O-acyltransferase 1
+K13506	glycerol-3-phosphate O-acyltransferase 3/4 / glycerol-3-phosphate acyltransferase 3
+K13523	lysophosphatidic acid acyltransferase / lysophosphatidylinositol acyltransferase
+K21249 	UV radiation resistance-associated gene protein 
+NO_KO1	ABC-type transport system
+NO_KO2	cold shock protein CspC
+K00790	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
