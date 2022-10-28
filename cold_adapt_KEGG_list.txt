@@ -68,3 +68,4 @@ K21249 	UV radiation resistance-associated gene protein
 NO_KO1	ABC-type transport system
 NO_KO2	cold shock protein CspC
 K00790	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+K14258	Facilitated trehalose transporter
