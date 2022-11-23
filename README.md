@@ -1,5 +1,5 @@
 ## Genome_Cold_Annotation
-#Search through KEGG annotated genome or metagenome for KEGG numbers and output to a file
+#Search through KEGG annotated genome or metagenome for specific KEGG numbers and output matches to a file
 
 #This is a python script so python will need to be installed on your system
 #To run the script search_kegg_genes.py requires three command line inputs - two paths to input files and one path to an output file. 
@@ -8,7 +8,7 @@
 
 #file2 - this is the genome file annotated with KEGG numbers - ex a file annotation file output by ghostkoala
 
-#The third command line input is just a path/name that you want to save your matches to. 
+#The third command line input is just a path/file name that you want to save your matches to. 
 
 #The script can be run as: 
 
